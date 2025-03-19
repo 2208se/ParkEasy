@@ -1,0 +1,24 @@
+{
+  "name": "parkeasy",
+  "version": "1.0.0",
+  "description": "![Homesection Image](./welcomesection.png)\r ## 🌟 Project Description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2208se/ParkEasy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/2208se/ParkEasy/issues"
+  },
+  "homepage": "https://github.com/2208se/ParkEasy#readme",
+  "dependencies": {
+    "react-scripts": "^5.0.1"
+  }
+}

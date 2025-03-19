@@ -30,7 +30,7 @@ const ChangeCard = ({ onClose, visible }) => {
                 <div className="flex flex-col gap-6 bg-white md:p-4 p-2 rounded-xl md:mx-auto border-2 border-gray-600 sm:w-[45%] w-full mx-4">
                     <div className="flex flex-row justify-between">
                         <span></span>
-                        <span className="text-orange-500 font-medium text-xl">Change the plan</span>
+                        <span className="text-orange-500 font-medium text-xl">Change the plan here</span>
                         <button onClick={onClose} className="text-gray-600 text-[20px] font-bold">X</button>
                     </div>
                     <form className="flex flex-col items-center">
